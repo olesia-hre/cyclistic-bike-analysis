@@ -11,5 +11,5 @@ BigQuery (SQL), Google Sheets, Tableau, Data Cleaning, Data Visualization, Analy
 - Peak riding hours differ: casual riders are most active in late afternoon and evening, whereas members ride mostly during commuting hours.  
 - Weekend usage is slightly higher among casual riders, while members ride more consistently across weekdays.
 
-The full analysis, including data cleaning steps, SQL queries, and visualizations, is available in the [notebook](https://github.com/olesia-hre/cyclistic-bike-analysis/blob/main/cleaned_notebook.ipynb).
+The full analysis, including data cleaning steps, SQL queries, and visualizations, is available in the [notebook](https://github.com/olesia-hre/cyclistic-bike-analysis/blob/main/cyclistic_bike_share_analysis.ipynb).
 
